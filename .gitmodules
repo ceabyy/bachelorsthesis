@@ -1,0 +1,27 @@
+[submodule "LAPAR"]
+	path = LAPAR
+	url = https://github.com/dvlab-research/Simple-SR.git
+[submodule "ARCNN"]
+	path = ARCNN
+	url = https://github.com/yjn870/ARCNN-pytorch.git
+[submodule "EDPN"]
+	path = EDPN
+	url = https://github.com/XrKang/EDPN.git
+[submodule "FBCNN"]
+	path = FBCNN
+	url = https://github.com/jiaxi-jiang/FBCNN.git
+[submodule "OAPT"]
+	path = OAPT
+	url = https://github.com/QMoQ/OAPT.git
+[submodule "QGCN"]
+	path = QGCN
+	url = https://github.com/VDIGPKU/QGCN.git
+[submodule "MemNet"]
+	path = MemNet
+	url = https://github.com/tyshiwo/MemNet.git
+[submodule "DnCNN"]
+	path = DnCNN
+	url = https://github.com/cszn/DnCNN.git
+[submodule "CODiff"]
+	path = CODiff
+	url = https://github.com/jp-guo/CODiff.git
