@@ -9,3 +9,5 @@ QGCN/**/*.pth filter=lfs diff=lfs merge=lfs -text
 QGCN/**/*.pt filter=lfs diff=lfs merge=lfs -text
 DnCNN/**/*.pth filter=lfs diff=lfs merge=lfs -text
 DnCNN/**/*.pt filter=lfs diff=lfs merge=lfs -text
+MemNet/**/*.pth filter=lfs diff=lfs merge=lfs -text
+MemNet/**/*.pt filter=lfs diff=lfs merge=lfs -text
