@@ -1,0 +1,40 @@
+log for qcn double compressed gray qf10
+
+WARNING: The color mode of this model is L, not RGB.
+
+[1/5] 0026.png
+PSNR: LQ: 24.3438, HQ: 25.4438, Increment: 1.1000
+SSIM: LQ: 0.7905, HQ: 0.8251, Increment: 0.0346
+PSNR-B: LQ: 22.1905, HQ: 24.9429, Increment: 2.7524
+Time cost: 67.9454s
+
+[2/5] 0027.png
+PSNR: LQ: 30.1046, HQ: 31.8615, Increment: 1.7569
+SSIM: LQ: 0.8586, HQ: 0.9291, Increment: 0.0705
+PSNR-B: LQ: 27.7918, HQ: 31.5493, Increment: 3.7575
+Time cost: 46.3650s
+
+[3/5] 0032.png
+PSNR: LQ: 31.8224, HQ: 33.4505, Increment: 1.6281
+SSIM: LQ: 0.8350, HQ: 0.8704, Increment: 0.0354
+PSNR-B: LQ: 29.7590, HQ: 33.2729, Increment: 3.5140
+Time cost: 39.1033s
+
+[4/5] 0034.png
+PSNR: LQ: 26.6692, HQ: 28.9775, Increment: 2.3083
+SSIM: LQ: 0.8188, HQ: 0.8806, Increment: 0.0619
+PSNR-B: LQ: 24.2652, HQ: 28.5912, Increment: 4.3260
+Time cost: 38.3073s
+
+[5/5] 0036.png
+PSNR: LQ: 31.8217, HQ: 34.7567, Increment: 2.9350
+SSIM: LQ: 0.9102, HQ: 0.9452, Increment: 0.0350
+PSNR-B: LQ: 29.6272, HQ: 34.4169, Increment: 4.7897
+Time cost: 46.9816s
+
+【Average of all images:】
+PSNR: LQ: 28.9524, HQ: 30.8980, Increment: 1.9457
+SSIM: LQ: 0.8426, HQ: 0.8901, Increment: 0.0475
+PSNR-B: LQ: 26.7267, HQ: 30.5546, Increment: 3.8279
+All time: 238.7417s, primary time: 222.4642s
+============= END ==============

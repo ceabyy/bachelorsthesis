@@ -1,0 +1,38 @@
+log for qcn colour qf90
+
+[1/5] 0026.png
+PSNR: LQ: 32.3572, HQ: 31.9915, Increment: -0.3657
+SSIM: LQ: 0.9246, HQ: 0.9557, Increment: 0.0311
+PSNR-B: LQ: 31.9214, HQ: 30.5456, Increment: -1.3759
+Time cost: 51.4554s
+
+[2/5] 0027.png
+PSNR: LQ: 39.7917, HQ: 39.9414, Increment: 0.1497
+SSIM: LQ: 0.9739, HQ: 0.9777, Increment: 0.0037
+PSNR-B: LQ: 38.5666, HQ: 38.2120, Increment: -0.3546
+Time cost: 49.8222s
+
+[3/5] 0032.png
+PSNR: LQ: 41.5396, HQ: 42.7164, Increment: 1.1768
+SSIM: LQ: 0.9787, HQ: 0.9836, Increment: 0.0049
+PSNR-B: LQ: 37.9208, HQ: 40.0798, Increment: 2.1590
+Time cost: 45.3515s
+
+[4/5] 0034.png
+PSNR: LQ: 34.6932, HQ: 35.1685, Increment: 0.4753
+SSIM: LQ: 0.9676, HQ: 0.9739, Increment: 0.0063
+PSNR-B: LQ: 33.4135, HQ: 34.5675, Increment: 1.1539
+Time cost: 42.1916s
+
+[5/5] 0036.png
+PSNR: LQ: 41.2632, HQ: 42.1384, Increment: 0.8752
+SSIM: LQ: 0.9750, HQ: 0.9781, Increment: 0.0031
+PSNR-B: LQ: 38.0108, HQ: 39.4036, Increment: 1.3928
+Time cost: 51.3289s
+
+【Average of all images:】
+PSNR: LQ: 37.9290, HQ: 38.3912, Increment: 0.4623
+SSIM: LQ: 0.9640, HQ: 0.9738, Increment: 0.0098
+PSNR-B: LQ: 35.9666, HQ: 36.5617, Increment: 0.5950
+All time: 240.1819s, primary time: 195.5787s
+============= END ==============
