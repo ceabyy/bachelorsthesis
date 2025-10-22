@@ -1,0 +1,10 @@
+00a2c36e0e4c3a:	pred-00a2c36e0e4c3a:tensor([4.1285, 3.3474]).
+0a0a640daf4634:	pred-0a0a640daf4634:tensor([4.3223, 3.4828]).
+0a0c37b6c13a73:	pred-0a0c37b6c13a73:tensor([4.2789, 4.0629]).
+0a0c4b181ade2a:	pred-0a0c4b181ade2a:tensor([0.6150, 3.3655]).
+0a0ee2ad4cbd78:	pred-0a0ee2ad4cbd78:tensor([3.9855, 3.5438]).
+0a1bfc75dae2b9:	pred-0a1bfc75dae2b9:tensor([2.9074, 2.7215]).
+0a1c132fd0b189:	pred-0a1c132fd0b189:tensor([3.8689, 3.4852]).
+0a1c72649542c2:	pred-0a1c72649542c2:tensor([3.9148, 3.4436]).
+0a1eaeebba9d13:	pred-0a1eaeebba9d13:tensor([5.0961, 4.4906]).
+0a2e845be7758a:	pred-0a2e845be7758a:tensor([4.7948, 3.9204]).
