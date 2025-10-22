@@ -7,3 +7,5 @@ OAPT/**/*.pth filter=lfs diff=lfs merge=lfs -text
 OAPT/**/*.pt filter=lfs diff=lfs merge=lfs -text
 QGCN/**/*.pth filter=lfs diff=lfs merge=lfs -text
 QGCN/**/*.pt filter=lfs diff=lfs merge=lfs -text
+DnCNN/**/*.pth filter=lfs diff=lfs merge=lfs -text
+DnCNN/**/*.pt filter=lfs diff=lfs merge=lfs -text
