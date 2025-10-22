@@ -1,0 +1,20 @@
+25-10-21 23:33:55.387 : --------------- QF1=70, QF2=70 ---------------
+25-10-21 23:33:55.767 : Model path: model_zoo/fbcnn_gray_double.pth
+25-10-21 23:33:55.768 : ---1-->   0026.jpg
+25-10-21 23:34:52.063 : 0026.jpg - PSNR: 31.95 dB; SSIM: 0.955; PSNRB: 31.43 dB; Time: 56.29s.
+25-10-21 23:34:52.065 : predicted quality factor: 71
+25-10-21 23:34:52.098 : ---2-->   0027.jpg
+25-10-21 23:35:43.383 : 0027.jpg - PSNR: 37.80 dB; SSIM: 0.979; PSNRB: 37.52 dB; Time: 51.28s.
+25-10-21 23:35:43.385 : predicted quality factor: 71
+25-10-21 23:35:43.420 : ---3-->   0032.jpg
+25-10-21 23:36:22.347 : 0032.jpg - PSNR: 39.85 dB; SSIM: 0.969; PSNRB: 39.50 dB; Time: 38.93s.
+25-10-21 23:36:22.348 : predicted quality factor: 71
+25-10-21 23:36:22.371 : ---4-->   0034.jpg
+25-10-21 23:36:58.537 : 0034.jpg - PSNR: 34.65 dB; SSIM: 0.964; PSNRB: 34.06 dB; Time: 36.17s.
+25-10-21 23:36:58.538 : predicted quality factor: 71
+25-10-21 23:36:58.569 : ---5-->   0036.jpg
+25-10-21 23:37:52.966 : 0036.jpg - PSNR: 39.84 dB; SSIM: 0.981; PSNRB: 39.84 dB; Time: 54.40s.
+25-10-21 23:37:52.967 : predicted quality factor: 71
+25-10-21 23:37:52.991 : Average PSNR/SSIM/PSNRB - DIV2K_train_HR_mini_double_compressed_90_gray_fbcnn_gray_double_qf1_70_qf2_70 -: 36.82$\vert$0.9697$\vert$36.47.
+25-10-21 23:37:52.991 : Average time per image: 47.41s
+25-10-21 23:37:52.991 : Total elapsed time for set: 237.22s (3.95 min)

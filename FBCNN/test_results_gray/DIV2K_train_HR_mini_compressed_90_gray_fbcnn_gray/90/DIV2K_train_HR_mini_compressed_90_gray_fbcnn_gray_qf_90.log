@@ -1,0 +1,20 @@
+25-10-22 00:20:04.209 : --------------- quality factor: 90 ---------------
+25-10-22 00:20:04.534 : Model path: model_zoo/fbcnn_gray.pth
+25-10-22 00:20:04.534 : ---1-->   0026.jpg
+25-10-22 00:20:59.165 : 0026.jpg - PSNR: 42.09 dB; SSIM: 0.991; PSNRB: 38.90 dB; Time: 54.63s.
+25-10-22 00:20:59.170 : predicted quality factor: 89
+25-10-22 00:20:59.205 : ---2-->   0027.jpg
+25-10-22 00:21:38.969 : 0027.jpg - PSNR: 47.33 dB; SSIM: 0.995; PSNRB: 44.76 dB; Time: 39.76s.
+25-10-22 00:21:38.969 : predicted quality factor: 89
+25-10-22 00:21:39.003 : ---3-->   0032.jpg
+25-10-22 00:22:09.001 : 0032.jpg - PSNR: 46.64 dB; SSIM: 0.993; PSNRB: 44.24 dB; Time: 30.00s.
+25-10-22 00:22:09.002 : predicted quality factor: 89
+25-10-22 00:22:09.027 : ---4-->   0034.jpg
+25-10-22 00:22:39.417 : 0034.jpg - PSNR: 43.13 dB; SSIM: 0.992; PSNRB: 40.98 dB; Time: 30.39s.
+25-10-22 00:22:39.417 : predicted quality factor: 89
+25-10-22 00:22:39.454 : ---5-->   0036.jpg
+25-10-22 00:23:46.041 : 0036.jpg - PSNR: 47.36 dB; SSIM: 0.995; PSNRB: 43.77 dB; Time: 66.59s.
+25-10-22 00:23:46.043 : predicted quality factor: 89
+25-10-22 00:23:46.076 : Average PSNR/SSIM/PSNRB - DIV2K_train_HR_mini_compressed_90_gray_fbcnn_gray_90 -: 45.31$\vert$0.9931$\vert$42.53.
+25-10-22 00:23:46.076 : Average time per image: 44.27s
+25-10-22 00:23:46.076 : Total elapsed time for set: 221.54s (3.69 min)

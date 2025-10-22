@@ -1,0 +1,17 @@
+25-10-22 00:00:14.589 : Model path: model_zoo/fbcnn_color.pth
+25-10-22 00:00:14.589 : ---1-->   0026.jpg
+25-10-22 00:01:09.134 : predicted quality factor: 90
+25-10-22 00:01:09.269 : Flexible control by QF = 90
+25-10-22 00:01:57.863 : ---2-->   0027.jpg
+25-10-22 00:02:36.022 : predicted quality factor: 90
+25-10-22 00:02:36.140 : Flexible control by QF = 90
+25-10-22 00:03:14.758 : ---3-->   0032.jpg
+25-10-22 00:03:43.323 : predicted quality factor: 90
+25-10-22 00:03:43.409 : Flexible control by QF = 90
+25-10-22 00:04:13.261 : ---4-->   0034.jpg
+25-10-22 00:04:42.191 : predicted quality factor: 90
+25-10-22 00:04:42.305 : Flexible control by QF = 90
+25-10-22 00:05:14.598 : ---5-->   0036.jpg
+25-10-22 00:06:12.705 : predicted quality factor: 90
+25-10-22 00:06:12.797 : Flexible control by QF = 90
+25-10-22 00:07:06.058 : Total time for the set: 411.4677s, Average time per image: 82.2935s
