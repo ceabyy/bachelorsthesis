@@ -4,9 +4,6 @@
 [submodule "ARCNN"]
 	path = ARCNN
 	url = https://github.com/yjn870/ARCNN-pytorch.git
-[submodule "EDPN"]
-	path = EDPN
-	url = https://github.com/XrKang/EDPN.git
 [submodule "FBCNN"]
 	path = FBCNN
 	url = https://github.com/jiaxi-jiang/FBCNN.git
@@ -22,6 +19,3 @@
 [submodule "DnCNN"]
 	path = DnCNN
 	url = https://github.com/cszn/DnCNN.git
-[submodule "CODiff"]
-	path = CODiff
-	url = https://github.com/jp-guo/CODiff.git
