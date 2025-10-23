@@ -1,4 +1,4 @@
-# CUDA_VISIBLE_DEVICES= python oapt/test.py -opt options/Color/test/test_oapt.yml
+# CUDA_VISIBLE_DEVICES= python oapt/test.py -opt options/Color/test/test_oapt_qf50.yml
 name: test_OAPT_color
 model_type: OAPT_ModelB
 scale: 1
@@ -16,14 +16,14 @@ datasets:
     name: DIV2K
     type: DoubleJpegImageDataset
     dataroot_gt: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini
-    dataroot_lq: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini_compressed_90
+    dataroot_lq: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini_compressed_10
     io_backend:
       type: disk
 
     num_channels: 3
     # color: y
-    quality_factor: 90
-    double_compression: true
+    quality_factor: 10
+    double_compression: false
     second_qfs: 50 
     shift_w: 4
     shift_h: 4
@@ -59,7 +59,7 @@ path:
 # validation settings
 val:
   save_img: true
-  suffix: qf90  # add suffix to saved images, if None, use exp name
+  suffix:  # add suffix to saved images, if None, use exp name
   pbar: True
 
   metrics:

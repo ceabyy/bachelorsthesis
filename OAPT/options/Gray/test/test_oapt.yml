@@ -15,16 +15,16 @@ datasets:
   test_1:
     name: DIV2K_gray
     type: DoubleJpegImageDataset
-    dataroot_gt: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini_gray
-    dataroot_lq: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini_compressed_90_gray
+    dataroot_gt: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini
+    dataroot_lq: /Users/ceabyfernandez/bachelorsthesis/Datasets/DIV2K/DIV2K_train_HR_mini_compressed_10
     io_backend:
       type: disk
     # num_channels: 3
     num_channels: 1
     color: y
-    quality_factor: 90
-    double_compression: true 
-    second_qfs: 30 
+    quality_factor: 10
+    double_compression: false
+    second_qfs: 70 
     shift_w: 4 
     shift_h: 4 
   

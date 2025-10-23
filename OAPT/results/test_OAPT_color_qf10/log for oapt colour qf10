@@ -1,0 +1,12 @@
+log for oapt colour qf10
+
+2025-10-23 01:58:19,890 INFO: Loading OAPT model from /Users/ceabyfernandez/bachelorsthesis/OAPT/oapt/weights/OAPT_Pfreeze_color_non_aligned.pth, with param key: [params_ema].
+2025-10-23 01:58:19,970 INFO: Model [OAPT_ModelB] is created.
+2025-10-23 01:58:19,970 INFO: Testing DIV2K...
+Test 0036: 100%|██████████████████████████████| 5/5 [48:05<00:00, 577.15s/image]
+2025-10-23 02:46:25,746 INFO: Validation DIV2K
+	 # psnr: 30.1756	Best: 30.1756 @ test_OAPT_color iter
+	 # ssim: 0.8875	Best: 0.8875 @ test_OAPT_color iter
+
+2025-10-23 02:46:25,749 INFO: out_img: psnrb=29.9292
+2025-10-23 02:46:25,749 INFO: lq_img: psnr=45.5315;  ssim=0.9904;   psnrb=31.1369
